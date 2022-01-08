@@ -9,4 +9,6 @@ $('.header__slider').slick({
   
 });
 
-// end 50 min 45 sek
+// end 50 min 45 sek end git
+
+
